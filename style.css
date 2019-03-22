@@ -9,16 +9,16 @@ body {
 
 h1 {
     color: #efeee7;
-    background-color: black;
+    background-color: #333333;
     margin: 0;
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
-    font-size: 20px;
+    font-size: 28px;
 }
 
 h2 {
-    font-size: 20px;
+    font-size: 24px;
 }
 
 a {
@@ -32,14 +32,16 @@ a {
 
 #main-bio,
 #contact-info,
-#myface {
+#myface {px;
     float: left;
 }
 
 #main-bio {
+    margin-right: 20px;
     width: 70%;
 }
 #contact-info {
+    margin-left: 20px;
     width: 30%;
 }
 
